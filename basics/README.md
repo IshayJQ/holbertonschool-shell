@@ -6,5 +6,6 @@ Script list the including hidden files ls -la
 Script list long including numeric user and group IDs ls -lan
 Script create a directory in a other directory mkdir/tmp/"DirectoryName"
 Script move a file from a directory to another directory mv /tmp/"FileNme" /tmp/"DirectoryName"/
-Script delete a file from a directory location
-Script delete a directory
+Script delete a file from a directory location rm /tmp/"DirectoriName"/"FileName"
+Script delete a directory rm -r /tmp/"DirectoryName"
+Script changes the working directory to the previous one cd - 
