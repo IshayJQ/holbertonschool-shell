@@ -7,3 +7,4 @@ Script list long including numeric user and group IDs ls -lan
 Script create a directory in a other directory mkdir/tmp/"DirectoryName"
 Script move a file from a directory to another directory mv /tmp/"FileNme" /tmp/"DirectoryName"/
 Script delete a file from a directory location
+Script delete a directory
