@@ -3,3 +3,4 @@ Script to what is in there ls
 Script return to home directory cd
 Script list long format ls -l
 Script list the including hidden files ls -la
+Script list long including numeric user and group IDs
