@@ -3,4 +3,5 @@ Scripts to alow permissions
 1-whoami  is used to display the effective username of the current user
 2-groups list the groups the current user is part of  
 3-newowner changes the owner of the file
-4-empty crate a new empty file 
+4-empty crate a new empty file
+5-execute adds execute permission to the owner file 
