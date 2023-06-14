@@ -4,4 +4,5 @@ Scripts to alow permissions
 2-groups list the groups the current user is part of  
 3-newowner changes the owner of the file
 4-empty crate a new empty file
-5-execute adds execute permission to the owner file 
+5-execute adds execute permission to the owner file
+6-multiplepermissions adds multiple permissions
