@@ -8,3 +8,4 @@ Scripts to alow permissions
 6-multiplepermissions adds multiple permissions
 7-everybody script that adds execution permission
 8-JameBond sets the permission
+9-JohnDoe script that sets the mode of the file
