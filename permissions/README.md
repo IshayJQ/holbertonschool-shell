@@ -6,3 +6,5 @@ Scripts to alow permissions
 4-empty crate a new empty file
 5-execute adds execute permission to the owner file
 6-multiplepermissions adds multiple permissions
+7-everybody script that adds execution permission
+8-JameBond sets the permission
