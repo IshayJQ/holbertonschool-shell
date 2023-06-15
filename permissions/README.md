@@ -10,3 +10,4 @@ Scripts to alow permissions
 8-JameBond sets the permission
 9-JohnDoe script that sets the mode of the file
 10-mirrorpermissions script that sets the mode of the file hello the same as olleh’s mode
+11-directoriespermissions script that adds execute permission to all subdirectories of the current directory
