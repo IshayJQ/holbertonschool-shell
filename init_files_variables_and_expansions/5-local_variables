@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv | grep -vE '^\(|\)|_=' | sort
+env | grep -vE '^\(|\)|_=' | sort
